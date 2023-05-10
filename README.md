@@ -1,4 +1,4 @@
 ## Personal Portfolio
 
-![Portfolio Website](../my_portifolio/public/images/portifolio.png)
+![alt text](../my_portifolio/public/images/portifolio.png)
 # my_portifolio
