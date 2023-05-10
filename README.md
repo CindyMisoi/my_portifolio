@@ -1,4 +1,4 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](../my_portifolio/public/images/portifolio.png)
 # my_portifolio
