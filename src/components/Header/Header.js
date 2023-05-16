@@ -22,7 +22,7 @@ const Header = () => (
           style={{ display: "flex", alignItems: "center", color: "white" }}
         >
           <DiCssdeck size="3rem" style={{marginBottom:"20px"}}/>
-          <Span>Portifolio</Span>
+          <Span>Portfolio</Span>
         </Link>
       </Div1>
       <Div2>
