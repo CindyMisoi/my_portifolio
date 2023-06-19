@@ -13,8 +13,8 @@ export const projects = [
     description:"ShopNasi is a simple Ecommerce website built with Next.js, sanity for content management and Stripe for payment integration",
     image: '/images/ShopNasi.png',
     tags: ['Next.js', 'JavaScript', 'Sanity', 'Stripe'],
-    source: 'https://github.com/CindyMisoi/ShopNasi',
-    visit: 'https://shop-nasi.vercel.app/',
+    source: 'https://shop-nasi.vercel.app/',
+    visit: 'https://github.com/CindyMisoi/ShopNasi',
     id: 1,
   },
   {
